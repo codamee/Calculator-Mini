@@ -18,7 +18,7 @@ body {
     width: 350px;
     height: 80vh;
     padding: 20px;
-    border-radius: 70px;
+    border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,8 +41,8 @@ body {
     word-wrap: break-word;
     flex-direction: column;
     justify-content: center;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
     background-color: rgb(0, 115, 137);
     box-shadow: 5px 5px 0px 5px rgb(0, 0, 0) inset;
 }
@@ -84,10 +84,5 @@ body {
 #equals {
     width: 145px;
     background-color: rgba(242, 242, 242, 0.974);
-    border-bottom-right-radius: 50px;
-}
-#zero{
-    border-bottom-left-radius: 50px;
-
 }
 
