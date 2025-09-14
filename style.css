@@ -32,6 +32,7 @@ body {
     height: 30%;
     display: flex;
     color: rgb(255, 255, 255);
+    font-weight: 600;
     font-size: 30px;
     flex-wrap: wrap;
     gap: 10px;
@@ -43,7 +44,7 @@ body {
     justify-content: center;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-color: rgb(0, 115, 137);
+    background-color: rgb(0, 151, 181);
     box-shadow: 5px 5px 0px 5px rgb(0, 0, 0) inset;
 }
 .finalValue{
