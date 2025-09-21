@@ -1,5 +1,7 @@
 # Calculator-Mini
 
+### [Live Demo](https://codamee.github.io/Calculator-Mini/)
+
 This is a basic calculator built with HTML, CSS, and JavaScript. The calculator features a light-themed interface.
 
 ## Core Features
