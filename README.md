@@ -1,4 +1,4 @@
-# Calculator-Mini
+# Calculator-Mini [[Live Demo](https://codamee.github.io/Calculator-Mini/)]
 
 ### [Live Demo](https://codamee.github.io/Calculator-Mini/)
 
